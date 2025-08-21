@@ -4,21 +4,21 @@ Business Context
 
 •	Banks aim to understand customer spending behavior to:
 
-	Build targeted marketing campaigns.
+Build targeted marketing campaigns.
  
-	Improve customer relationship management (CRM).
+Improve customer relationship management (CRM).
  
-	Customize offers and services.
+Customize offers and services.
  
-	Grow sales and revenue.
+Grow sales and revenue.
  
 •	Specifically, predicting future credit card consumption allows the bank to:
 
-	Identify high-potential customers.
+Identify high-potential customers.
  
-	Optimize credit limits and risk exposure.
+Optimize credit limits and risk exposure.
  
-	Design personalized financial products.
+Design personalized financial products.
  
 ________________________________________
 
